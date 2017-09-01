@@ -41,9 +41,7 @@ export default class FirstApp extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-      flexDirection: 'column',
-    justifyContent: 'center',
-    alignItems: 'center',
+    flexDirection: 'column',
     backgroundColor: '#F5FCFF',
   },
   welcome: {

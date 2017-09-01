@@ -41,7 +41,8 @@ export default class ViewThree extends Component {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        justifyContent: 'center',
+        flexDirection: 'row',
+        justifyContent: 'start',
         alignItems: 'center',
         backgroundColor: '#F5FCFF',
     },
